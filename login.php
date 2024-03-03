@@ -9,7 +9,7 @@
            <br />  
            <div class="col-md-3"></div>
                 <div class="col-md-6 well">
-                    <h3 class="text-primary">Student Management System</h3>
+                    <h3 class="text-primary">STUDENT MANAGEMENT SYSTEM</h3>
                     <hr style="border-top:1px dotted #ccc;"/>
                     <div class="col-md-2"></div>
                     <div class="col-md-8">
